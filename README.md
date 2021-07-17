@@ -1,6 +1,6 @@
 # Hello World!
 
-Henlo, I'm Mr. Puppeteer
+Henlo, I'm MrPuppeteer
 
 - I'm interested in web and game development
 - I’m currently learning web-related technologies, such as HTML, CSS, Javascript, Node.js, Express, MongoDB, etc
