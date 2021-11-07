@@ -2,7 +2,6 @@
 
 Henlo, I'm MrPuppeteer
 
-- I'm an undergraduate students in Informatics
 - I'm interested in web and game development
 - I’m currently learning web-related technologies, mostly MERN stack
 
