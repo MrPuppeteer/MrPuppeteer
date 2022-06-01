@@ -1,4 +1,4 @@
-## Hello, I'm Bagas <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+## Hello, I'm BagasN
 
 [<img align="left" alt="Facebook" width="22px" src="https://raw.githubusercontent.com/MrPuppeteer/MrPuppeteer/main/facebook.svg" />](https://www.facebook.com/mrpppteer/)
 [<img align="left" alt="Twitter" width="22px" src="https://raw.githubusercontent.com/MrPuppeteer/MrPuppeteer/main/twitter.svg" />](https://twitter.com/mrpppteer)
