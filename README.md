@@ -8,16 +8,19 @@
 
 <div align="center">
   <a href="https://www.facebook.com/mrpppteer/">
-  <img align="center" alt="Facebook" width="22px" src="https://raw.githubusercontent.com/MrPuppeteer/MrPuppeteer/main/facebook.svg" />
+  <img align="center" alt="Facebook" width="36px" src="https://raw.githubusercontent.com/MrPuppeteer/MrPuppeteer/main/facebook.svg" />
   </a>
+  &#10240;
   <a href="https://twitter.com/mrpppteer">
-    <img align="center" alt="Twitter" width="22px" src="https://raw.githubusercontent.com/MrPuppeteer/MrPuppeteer/main/twitter.svg" />
+    <img align="center" alt="Twitter" width="36px" src="https://raw.githubusercontent.com/MrPuppeteer/MrPuppeteer/main/twitter.svg" />
   </a>
+  &#10240;
   <a href="https://discordapp.com/users/462162942683643905">
-    <img align="center" alt="Discord" width="22px" src="https://raw.githubusercontent.com/MrPuppeteer/MrPuppeteer/main/discord.svg" />
+    <img align="center" alt="Discord" width="36px" src="https://raw.githubusercontent.com/MrPuppeteer/MrPuppeteer/main/discord.svg" />
   </a>
+  &#10240;
   <a href="https://www.instagram.com/mrpppteer/">
-    <img align="center" alt="Instagram" width="22px" src="https://raw.githubusercontent.com/MrPuppeteer/MrPuppeteer/main/instagram.svg" />
+    <img align="center" alt="Instagram" width="36px" src="https://raw.githubusercontent.com/MrPuppeteer/MrPuppeteer/main/instagram.svg" />
   </a>
 </div>
 
