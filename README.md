@@ -1,11 +1,25 @@
 ## Hello, I'm MrPuppeteer
 
-<img align="center" src="https://raw.githubusercontent.com/MrPuppeteer/MrPuppeteer/main/bocchi-the-rock-nijika-ijichi.gif" />
+<div align="center">
+  <img src="https://raw.githubusercontent.com/MrPuppeteer/MrPuppeteer/main/bocchi-the-rock-nijika-ijichi.gif" />
+</div>
 
-[<img align="center" alt="Facebook" width="22px" src="https://raw.githubusercontent.com/MrPuppeteer/MrPuppeteer/main/facebook.svg" />](https://www.facebook.com/mrpppteer/)
-[<img align="center" alt="Twitter" width="22px" src="https://raw.githubusercontent.com/MrPuppeteer/MrPuppeteer/main/twitter.svg" />](https://twitter.com/mrpppteer)
-[<img align="center" alt="Discord" width="22px" src="https://raw.githubusercontent.com/MrPuppeteer/MrPuppeteer/main/discord.svg" />](https://discordapp.com/users/462162942683643905)
-[<img align="center" alt="Instagram" width="22px" src="https://raw.githubusercontent.com/MrPuppeteer/MrPuppeteer/main/instagram.svg" />](https://www.instagram.com/mrpppteer/)
+---
+
+<div align="center">
+  <a href="https://www.facebook.com/mrpppteer/">
+  <img align="center" alt="Facebook" width="22px" src="https://raw.githubusercontent.com/MrPuppeteer/MrPuppeteer/main/facebook.svg" />
+  </a>
+  <a href="https://twitter.com/mrpppteer">
+    <img align="center" alt="Twitter" width="22px" src="https://raw.githubusercontent.com/MrPuppeteer/MrPuppeteer/main/twitter.svg" />
+  </a>
+  <a href="https://discordapp.com/users/462162942683643905">
+    <img align="center" alt="Discord" width="22px" src="https://raw.githubusercontent.com/MrPuppeteer/MrPuppeteer/main/discord.svg" />
+  </a>
+  <a href="https://www.instagram.com/mrpppteer/">
+    <img align="center" alt="Instagram" width="22px" src="https://raw.githubusercontent.com/MrPuppeteer/MrPuppeteer/main/instagram.svg" />
+  </a>
+</div>
 
 <!---
 MrPuppeteer/MrPuppeteer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
