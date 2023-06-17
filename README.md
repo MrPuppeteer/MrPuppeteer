@@ -22,6 +22,10 @@
   <a href="https://www.instagram.com/mrpppteer/">
     <img align="center" alt="Instagram" width="36px" src="https://raw.githubusercontent.com/MrPuppeteer/MrPuppeteer/main/instagram.svg" />
   </a>
+  &#10240;
+  <a href="https://www.linkedin.com/in/bagasn/">
+    <img align="center" alt="LinkedIn" width="36px" src="https://raw.githubusercontent.com/MrPuppeteer/MrPuppeteer/main/linkedin.svg" />
+  </a>
 </div>
 
 <!---
